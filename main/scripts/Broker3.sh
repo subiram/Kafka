@@ -1,0 +1,1 @@
+kafka-server-start.sh ~/kafka/config/server-3.properties
